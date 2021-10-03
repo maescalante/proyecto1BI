@@ -2,3 +2,4 @@ archive/**
 archive2/**
 datos.csv
 data/
+*.ipynb
